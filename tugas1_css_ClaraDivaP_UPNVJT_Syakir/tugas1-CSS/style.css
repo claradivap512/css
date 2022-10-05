@@ -1,0 +1,48 @@
+h1{
+  text-align: center;
+  background-image: url("tardis.png");
+  background-blend-mode: multiply;
+  background-size: 2.7%;
+}
+
+b{
+  color: red;
+}
+
+hr{
+  border: 1px dashed red;
+  border-width: medium;
+}
+
+body{
+  background-color: #728c67;
+}
+
+fieldset, legend{
+  border: 1px double red;
+}
+
+legend{
+  font-family: Arial, Georgia, Garamond;
+  letter-spacing: 5px;
+  text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  padding-bottom: 5px;
+  color: red;
+}
+
+p{
+  text-align: center;
+}
+
+ol{
+  list-style-image: url("saturn.png");
+}
+
+ul{
+  list-style-image: url(spaceship.png);
+}
